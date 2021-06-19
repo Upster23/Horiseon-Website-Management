@@ -3,3 +3,4 @@ Horiseon Website Management is a business management company which provides serv
 
 ## Contribution to this project
 This project is a refraction of an existing code to the make it neat and easy to follow both is the source code and the styling.
+
